@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1><p align="center">Hello, I'm Vanessa! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="https://thumbs.gfycat.com/LimpBewitchedHerculesbeetle-size_restricted.gif" width="40%"/></p>
 
 
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I also love writing Tech-blogs, learning new languages.<br></p><br/>
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning js libraries and laravel.
+- 🔭 I'm working on some projects.
+- 🌱 I’m currently learning js libraries/Framework and laravel.
 - 👯 I’m looking to collaborate on Frontend-Web and Backend-Web.
 - 🤔 I’m looking for help with Vue.
 - 💬 Ask me about laravel
